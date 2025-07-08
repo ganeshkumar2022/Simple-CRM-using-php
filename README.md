@@ -6,6 +6,7 @@
   <li>CSS</li>
   <li>PHP</li>
   <li>MySQL</li>
+  <li>Free Bootstrap template</li>
 </ol>
 
 Screenshots:-
